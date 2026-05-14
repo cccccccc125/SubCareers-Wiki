@@ -1,7 +1,0 @@
-{
-  "tool_name": "Read",
-  "tool_input_preview": "{\"file_path\":\"C:\\\\Users\\\\user\\\\OneDrive\\\\Desktop\\\\SubCareers\\\\SubCareers\\\\plan.md\"}",
-  "error": "File does not exist. Note: your current working directory is C:\\Users\\user\\OneDrive\\Desktop\\SubCareers\\wiki\\subcareers.",
-  "timestamp": "2026-05-09T15:48:28.390Z",
-  "retry_count": 1
-}
